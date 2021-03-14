@@ -1,0 +1,15 @@
+{
+  "name": "json-parse",
+  "version": "1.0.0",
+  "description": "Minor app to read, parse and return JSON in the command line",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Russell Winters",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}
